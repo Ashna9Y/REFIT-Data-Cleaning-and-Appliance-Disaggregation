@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+
+# Local REFIT datasets
+data/raw/
+data/clean/
+data/processed/
+
+# Model files and local caches
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+other_load_band,n,other_load_median_w,median_abs_energy_err_pct,cycle_recall
+low,249,397.63,53.28,0.92
+mid,249,590.11,39.77,0.97
+high,249,1247.89,54.8,0.96

@@ -1,0 +1,6 @@
+model,mean_MAE_w,mean_F1,mean_SAE_pct,mean_cycle_recall,mean_cycle_energy_err_pct
+always_off,25.93,0.0,100.0,0.0,100.0
+global_mean,89.64,0.11,282.39,1.0,83.53
+usage_profile,42.84,0.2,32.02,0.71,89.83
+model,25.85,0.46,16.31,0.95,51.07
+model_leave_one_house_out,28.53,0.44,18.09,0.89,62.7
