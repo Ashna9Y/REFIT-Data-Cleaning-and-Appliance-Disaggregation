@@ -146,11 +146,7 @@ Results are documented in `RESULTS.md`. Data cleaning decisions and limitations 
 
 ## AI tools and disclosure
 
-Generative AI assistance was used during development to help explain programming concepts, troubleshoot errors, review implementation choices, and prepare or refine documentation. The developer remains responsible for checking the code, assumptions, and reported results.
-
-The washing-machine disaggregation model itself is a conventional machine-learning model, not a generative AI model. Numerical results and plots should be generated from the project scripts and data; they should not be invented or manually altered to improve the reported performance.
-
-List only the AI tools and uses that accurately reflect your own workflow.
+Generative AI assistance was used during development to help troubleshoot errors, review implementation choices, and prepare or refine documentation. The developer remains responsible for checking the code, assumptions, and reported results.
 
 ## Limitations
 
